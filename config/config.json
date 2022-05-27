@@ -1,0 +1,16 @@
+
+{
+    "connectionString": "mongodb://localhost/shopdb",
+    "secret": "Ktoxicwolf",
+    "emailFrom": "info@node-mongo-signup-verification-api.com",
+    "smtpOptions": {
+        "host" : "smtp.ethereal.email",
+        "Port"	:"587",
+
+        "auth": {
+                    
+           " Username"	:"rluxwtep6qvgbu5y@ethereal.email",
+            "Password"	:"TR5XzpbZbVNE4e8mVE"
+        }
+    }
+}
